@@ -37,14 +37,21 @@ O **IT Central** é um Hub de operações de TI desenvolvido para eliminar taref
 
 ## 📸 Demonstração Visual
 
-### Tela Principal e Navegação
-![Menu Principal](img/Captura%20de%20tela%202026-03-17%20152123.png)
+### Tela Inicial e Hub de Processos
+![Menu Principal](img/img_tela_inicial.png)
+
+### Gestão de Usuários (AD Local & Cloud)
+*Criação e remoção de colaboradores com sincronização híbrida.*
+
+![Criar Usuário](img/img_criar_usuario.png)
+
+![Excluir Usuário](img/img_excluir_usuario.png)
 
 ### Gestão de Documentos (Distrato/Comodato)
 ![Documentos](img/img_documentos.png)
 
-### Controle de Postagens e Correios
-![Logística](img/img_correios.png)
-
 ### Administração de Gestores e Projetos
 ![Governança](img/img_gestores.png)
+
+### Controle de Postagens e Correios
+![Logística](img/img_correios.png)
