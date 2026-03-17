@@ -3,6 +3,10 @@
 
 ---
 
+![Painel de Conformidade](img/img_paindeldeconformidade.png)
+
+---
+
 ## 📋 Resumo do Projeto
 
 Este projeto foi desenvolvido para **centralizar a governança de ativos de TI**, cruzando dados do **Active Directory (AD)** com ferramentas de segurança (**Sophos**) e produtividade (**TimeDoctor**). O objetivo principal era identificar lacunas de segurança e ativos sem monitoramento.
@@ -24,7 +28,7 @@ Este projeto foi desenvolvido para **centralizar a governança de ativos de TI**
 
 ### 🗂️ Modelagem de Dados
 Estrutura em **esquema estrela (Star Schema)** utilizando a tabela de ativos do AD como dimensão central.
-
+![Esquema Estrela](img/star_esquema.png)
 ### 🔄 ETL (Power Query)
 Consolidação e limpeza de bases distintas para garantir a **integridade do cruzamento de dados**.
 
